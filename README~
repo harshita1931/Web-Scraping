@@ -1,0 +1,3 @@
+The script final1.py fetches the company names and respective CIN numbers of the companies whose starting letters are stored in the file input1.txt. The output will be redirected to the file output1.txt
+
+The script final2.py fetches the company data, signatories data and charges data. The company and signatory data is redirected to file output2.txt and charges data is redirected to file output3.txt
